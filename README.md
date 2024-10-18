@@ -22,4 +22,6 @@ Who is it against:
 * IP's that DDOS and hack for no reason.
 * Other pests and idiots.
 
+These operations go on and law enfocement acts dumb about it, so we need to take the action. While we all know that spam is and the email providers should be identified and taken offline, here is a blog article on fake websites out to scam people: https://www.expressvpn.com/blog/list-of-scam-shopping-websites/
+
 Take back the internet. Ethical DDOS
