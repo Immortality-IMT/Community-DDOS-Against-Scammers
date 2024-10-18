@@ -14,7 +14,7 @@ The entire user base performs a distributed denial of service attack on the webs
 
 The list is public so haxors can join in an open season. 
 
-The list is formed by multiple listing across the many service that track and log these online assholes.
+The list is formed by multiple listing across the many services that track and log these online assholes.
 
 The user pushes update and a new list is sent.
 
