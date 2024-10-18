@@ -22,4 +22,4 @@ Who is it against:
 * IP's that DDOS and hack for no reason.
 * Other pests and idiots.
 
-Take back the internet.
+Take back the internet. Ethical DDOS
