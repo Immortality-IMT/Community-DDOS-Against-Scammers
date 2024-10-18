@@ -13,4 +13,4 @@ The list is formed by multiple listing across the many service that track and lo
 
 The user pushes update and a new list is sent.
 
-Take bak the internet.
+Take back the internet.
