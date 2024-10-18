@@ -4,7 +4,7 @@ Join a community that does distributed denial of service against scam websites.
 Slogan: Watch scammers die!
 Emoji Icon: ☠️  - In the list, when the scammer dies the icon changes to skull and crossbones.
 
-You load a little program on your computer and you join a large community, then you watch spammers and scammers die.
+You load a little program on your computer and you join a large community that performs a co-ordinated DDOS on the scammer, then you watch spammers and scammers die.
 
 An ethical community distributed denial of service destroys their operation.
 
