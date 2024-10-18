@@ -13,4 +13,13 @@ The list is formed by multiple listing across the many service that track and lo
 
 The user pushes update and a new list is sent.
 
+Who is it against:
+
+* Spammers, the email service they use to spam.
+* Scammers, the website they use to scam.
+* Payment processors of the scammers.
+* Domain registrars of the scammer websites.
+* IP's that DDOS and hack for no reason.
+* Other pests and idiots.
+
 Take back the internet.
